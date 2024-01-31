@@ -4,7 +4,6 @@ pubDatetime: 2024-01-17T15:30:52.737Z
 title: Life on the wallaby track 🚂
 postSlug: first
 featured: true
-ogImage: https://user-images.githubusercontent.com/53733092/215771435-25408246-2309-4f8b-a781-1f3d93bdf0ec.png
 tags:
   - personal
 description: My 2023 reflection
@@ -27,7 +26,8 @@ fn unemployed_daily_life() {
 
 ## Directed an entire What If...? Season
 
-<img src="/assets/whatif.jpg" class="mx-auto max-w-lg rounded-lg" alt="what if logo"></img>
+![What if](/assets/whatiflogo.png)
+
 After being laid off, I took things surprisingly well. I made sure to keep eating healthy, continue my 6 day PPL split and complete elden ring on my newly built PC while still constantly applying for jobs and refactoring my resume. I rarely wondered why things panned out the way they did. Sure, I was on a temporary visa and had limited time to find a new role but it can't be that hard. Right?
 As time went by and with the constant rejections, I took the time machine in my head for a ride and created my own branch timelines.
 
@@ -41,7 +41,7 @@ For any Loki fans out there, it became challenging to <a target="_blank" href="h
 
 ## Hope is always a wave
 
-Being unemployed for an extended period sounds like a time filled with gradually declining hope. but no matter what, my outlook on coming out of this situation has almost always been like a wave, rather than a constant decline.
+Being unemployed for an extended period sounds like a time filled with gradually declining hope. My outlook on coming out of this situation has almost always been like a wave, rather than a constant decline.
 
 Here's a little sneak peek of what it looks like:
 
@@ -72,17 +72,18 @@ Understanding the peaks and valleys of my motivation during this period sheds li
 
 ## New Concerns just dropped!🏆
 
-I'd be lying if I claimed to not develop some concerns that might be accompanying me into the new year. A silver lining of being laid off is the understanding people generally show when I connect with a hiring manager or share my background in interviews. However, with a year gone by, I find myself questioning how long external circumstances can legitimately explain the challenges of finding work. It becomes a tad bit overwhelming when I contemplate being in a position where I'm neither considered a recent graduate nor experienced enough for mid-level roles. Maybe it's a universal problem faced in any line of work, but it still worries me from time to time.
+I'd be lying if I claimed to not develop some concerns that might be accompanying me into the new year. A silver lining of being laid off is the understanding people generally show when I connect with a hiring manager or share my background in interviews. However, with a year gone by, I find myself questioning how long external circumstances can legitimately explain the challenges of finding work. It becomes slightly overwhelming when I contemplate being in a position where I'm neither considered a recent graduate nor experienced enough for mid-level roles. Maybe it's a universal problem faced in any line of work, but it still worries me from time to time.
 
 My social life also took a minor hit as I've stopped reaching out to friends (sometimes even family) with whom I often casually chat with, in the fear of not having anything currently interesting to share about my life. Oh, They might be busy with grad school or work and I probably have nothing new to talk about myself anyway.
 
 ## Progress?
 
-<img src="/assets/progress.jpg" class="mx-auto max-w-lg rounded-lg" alt="progress"></img>
-I've come to realize that the structured environment of school, college, and work has played a significant role in making me feel like I was making progress. Transitioning to a new job also maintained a level of structure in my life.
+![Where Progress](/assets/progress.jpg)
+
+I've realized that the structured environment of school, college, and work has played a significant role in making me feel like I was making progress.
 With an extended period of free time in my hands, I often found myself correlating not working on tasks that produce valuable output with a lack of progress.
 
 This gap year has given me insights into how I measure progress - by comparing my actions to the expected end goal to see if I'm moving forward/backward.
-For instance, I have been training for over a year towards holding a back lever for a "couple of seconds" on the gymnastic rings, and finally being able to do it did feel like an achievement. But, even when I was halfway there doing "skin the cat"s, it still felt like I was on the track towards making progress since I knew how far I am from reaching the end goal of doing a back lever. Similarly, in school and college, metrics such as course duration and grades made it easy to assess progress. However, currently, I struggle to see the big picture and evaluate if my actions are propelling me forward. I've unknowningly questioned whether everything I've done during this time will help me find a job. While I may have done that new project out of curiosity, there's been a lingering thought about whether doing it will bring me closer to employment which is not a good way to think about since I lose sight of the learnings/mistakes I've made while working on it. I am actively working on eliminating such a perspective and decoupling my actions from their end goals in certain cases. And I guess it's also cool to hit the pause button on progress sometimes, as long as I don't go downhill.
+For instance, I have been training for over a year towards holding a back lever on the gymnastic rings and finally being able to do it did feel like an achievement. But, even when I was halfway there doing "skin the cat"s, it still felt like I was on the track towards making progress since I knew how far I was from reaching the end goal of doing a back lever. Similarly, in school and college, metrics such as course duration and grades made it easy to assess progress. However, I currently struggle to see the big picture and evaluate if my actions are pushing me forward. I've unknowingly questioned whether everything I've done during this time will help me find a job. While I may have done that new project out of curiosity, there's been a lingering thought about whether doing it will bring me closer to employment which is not a healthy way to think as I lose sight of the learnings/mistakes I've made while working on it. I am actively working on eliminating such a mindset and decoupling my actions from their end goals in certain cases. And I guess it's also cool to hit the pause button on progress sometimes, but for how long? Only time will tell.
 
 ---
