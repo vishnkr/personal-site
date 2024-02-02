@@ -12,8 +12,4 @@ title: "About Me"
   </div>
 </div>
 
-## Projects
-
-I'm currently working on a rewrite of Varchess with some cool new features.
-
 [email](mailto:vishwas1020@gmail.com)

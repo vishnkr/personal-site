@@ -1,0 +1,79 @@
+---
+import { Image } from 'astro:assets';
+import vc1 from '../assets/varchess1.png';
+import ciow1 from '../assets/ciow1.png';
+import ciow2 from '../assets/ciow2.png';
+import sandy from '../assets/sandy.png';
+---
+
+<div class="bg-orange-200 text-black w-full my-8 p-8 rounded-md shadow-md border border-gray-300">
+    <div class="flex gap-3 items-center mb-4">
+      <h2 class="text-2xl font-bold mb-2">Varchess</h2>
+      <a href="http://github.com/vishnkr/varchess" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600" target="_blank">View Project</a>
+    </div>
+  
+    <div class="flex flex-wrap space-x-2">
+      <span class="bg-green-200 rounded-full px-3 py-1">Sveltekit</span>
+      <span class="bg-green-200 rounded-full px-3 py-1">Go</span>
+      <span class="bg-green-200 rounded-full px-3 py-1">Postgres</span>
+    </div>
+  
+    <p class="text-base mb-6">
+      I developed Varchess to play custom chess variants whenever I got tired of playing regular chess. Also acts as a playground to test out absurd variant ideas.
+    </p>
+  
+    <div class="mb-6">
+      <Image src={vc1} alt="Project Image 1" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
+    </div>
+  </div>
+  <div class="bg-orange-200 text-black w-full my-8 p-8 rounded-md shadow-md border border-gray-300">
+    <div class="flex flex-col items-center mb-4">
+      <h2 class="text-2xl font-bold mb-2">Sandy</h2>
+      <a href="http://github.com/vishnkr/sandy" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600" target="_blank">View Project</a>
+    </div>
+    <div class="flex flex-wrap space-x-2">
+        <span class="bg-green-200 rounded-full px-3 py-1">Javascript</span>
+        <span class="bg-green-200 rounded-full px-3 py-1">Rust</span>
+      </div>
+    <p class="text-base mb-6">
+      A cellular automaton sandbox insipired by sandspiel. Keep fans and ice packs handy for your CPU as it's an 'optimization masterpiece!'.
+    </p>
+    <div class="mb-6 flex gap-x-2">
+        <Image src={sandy} alt="Landing on ciow" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
+    
+      </div>
+    
+  </div>
+  <div class="bg-orange-200 text-black w-full my-8 p-8 rounded-md shadow-md border border-gray-300">
+    <div class="flex flex-col items-center mb-4">
+      <h2 class="text-2xl font-bold mb-2">Ciow (Chip8 In One Weekend)</h2>
+      <a href="http://github.com/vishnkr/ciow" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600" target="_blank">View Project</a>
+    </div>
+    <div class="flex flex-wrap space-x-2">
+        <span class="bg-green-200 rounded-full px-3 py-1">Go</span>
+    </div>
+    <p class="text-base mb-6">
+      Just a good old Chip8 Emulator
+    </p>
+  
+    <div class="mb-6 flex gap-x-2">
+      <Image src={ciow1} alt="Landing on ciow" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
+      <Image src={ciow2} alt="Pong on ciow" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
+    </div>
+  </div>
+  <div class="bg-orange-200 text-black w-full my-8 p-8 rounded-md shadow-md border border-gray-300">
+    <div class="flex flex-col items-center mb-4">
+      <h2 class="text-2xl font-bold mb-2">Stonkfish</h2>
+      <a href="http://github.com/vishnkr/stonkfish" class="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600" target="_blank">View Project</a>
+    </div>
+  
+    <p class="text-base mb-6">
+      A Rust based chess engine used to play chess variants in Varchess. It also includes a WebAssembly (WASM) compiled client-side validation library with custom game logic.
+    </p>
+    <div class="flex flex-wrap space-x-2">
+        <span class="bg-green-200 rounded-full px-3 py-1">Rust</span>
+        <span class="bg-green-200 rounded-full px-3 py-1">WebAssembly</span>
+      </div>
+   
+  </div>
+  
