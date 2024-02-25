@@ -22,8 +22,9 @@ import { projects } from '@utils/projects';
         <p class="text-base mb-6">{project.description}</p>
 
         <div class="flex md:flex-col gap-2 mb-6">
-          {project.imagePaths && project.imagePaths.map((image, index) => (
-            <img  src={image} alt="a" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
+          
+          {project.imagePaths && project.imagePaths.map((image) => (
+            <img src={image} alt="a" class="w-full rounded-lg border border-gray-300 cursor-pointer" />
           ))}
         </div>
       </div>
