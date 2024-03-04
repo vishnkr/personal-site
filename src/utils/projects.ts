@@ -13,7 +13,7 @@ export const projects: Project[] = [
     techStack: ["Sveltekit", "Go", "Postgres"],
     description:
       "I developed Varchess to play custom chess variants whenever I got tired of playing regular chess. Also acts as a playground to test out absurd variant ideas.",
-    imagePaths: ["/src/assets/varchess1.png"],
+    imagePaths: ["/assets/varchess1.png"],
   },
   {
     name: "Sandy",
@@ -21,14 +21,14 @@ export const projects: Project[] = [
     techStack: ["Javascript", "Rust"],
     description:
       "A cellular automaton sandbox inspired by sandspiel. Keep fans and ice packs handy for your CPU as it's an 'optimization masterpiece!'",
-    imagePaths: ["/src/assets/sandy.png"],
+    imagePaths: ["/assets/sandy.png"],
   },
   {
     name: "Ciow (Chip8 In One Weekend)",
     githubLink: "http://github.com/vishnkr/ciow",
     techStack: ["Go"],
     description: "Just a good old Chip8 Emulator",
-    imagePaths: ["/src/assets/ciow1.png", "/src/assets/ciow2.png"],
+    imagePaths: ["/assets/ciow1.png", "/assets/ciow2.png"],
   },
   {
     name: "Stonkfish",
